@@ -24,11 +24,10 @@ Danny has shared with you 3 key datasets for this case study:
 - sales
 - menu
 - members
+
+ **Entity Relationship Diagram**
  
-
-
-
-
+![ERD](ERD.png)
 
 
 ## Schema SQL
